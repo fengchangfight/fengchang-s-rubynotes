@@ -1,6 +1,7 @@
 ### Install rvm
 curl -L get.rvm.io | bash -s stable
 running result: 
+```
 Installing RVM to /Users/xiefengchang/.rvm/
     Adding rvm PATH line to /Users/xiefengchang/.profile /Users/xiefengchang/.mkshrc /Users/xiefengchang/.bashrc /Users/xiefengchang/.zshrc.
     Adding rvm loading line to /Users/xiefengchang/.profile /Users/xiefengchang/.bash_profile /Users/xiefengchang/.zlogin.
@@ -22,6 +23,8 @@ In case of problems: https://rvm.io/help and https://twitter.com/rvm_io
     to do that add the following line to '/Users/xiefengchang/.bash_profile':
 
       source ~/.profile
+```
+
 
 
 ## Welcome to GitHub Pages
