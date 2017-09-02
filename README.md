@@ -1,5 +1,27 @@
 ### Install rvm
 curl -L get.rvm.io | bash -s stable
+running result: 
+Installing RVM to /Users/xiefengchang/.rvm/
+    Adding rvm PATH line to /Users/xiefengchang/.profile /Users/xiefengchang/.mkshrc /Users/xiefengchang/.bashrc /Users/xiefengchang/.zshrc.
+    Adding rvm loading line to /Users/xiefengchang/.profile /Users/xiefengchang/.bash_profile /Users/xiefengchang/.zlogin.
+Installation of RVM in /Users/xiefengchang/.rvm/ is almost complete:
+
+  * To start using RVM you need to run `source /Users/xiefengchang/.rvm/scripts/rvm`
+    in all your open shell windows, in rare cases you need to reopen all shell windows.
+
+# xiefengchang,
+#
+#   Thank you for using RVM!
+#   We sincerely hope that RVM helps to make your life easier and more enjoyable!!!
+#
+# ~Wayne, Michal & team.
+
+In case of problems: https://rvm.io/help and https://twitter.com/rvm_io
+
+  * WARNING: You have '~/.profile' file, you might want to load it,
+    to do that add the following line to '/Users/xiefengchang/.bash_profile':
+
+      source ~/.profile
 
 
 ## Welcome to GitHub Pages
