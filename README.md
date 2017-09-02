@@ -49,9 +49,9 @@ rvm list
 rvm remove 2.1.4
 ```
 查看已有gem源：
-···
+```
 gem source
-···
+```
 
 切换源
 ```
