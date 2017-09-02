@@ -24,8 +24,42 @@ In case of problems: https://rvm.io/help and https://twitter.com/rvm_io
 
       source ~/.profile
 ```
+查看rvm版本：
+···
+rvm -v
+···
+列出ruby可安装版本信息：
+```
+rvm list known
+```
+安装某版本ruby:
+```
+rvm install 2.1.4
+```
+使用该版本ruby作为默认版本：
+```
+rvm use 2.1.4 --default
+```
+查看已安装的ruby:
+```
+rvm list
+```
+卸载一个已安装的ruby版本：
+```
+rvm remove 2.1.4
+```
+查看已有gem源：
+···
+gem source
+···
 
-
+切换源
+```
+$ gem update --system
+$ gem uninstall rubygems-update
+$ gem sources -r http://rubygems.org/
+$ gem sources -a http://ruby.taobao.org
+```
 
 ## Welcome to GitHub Pages
 
